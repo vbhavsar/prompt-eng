@@ -1,12 +1,15 @@
-# Guidelines
+
+Notes from the course <a href="https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/">ChatGPT Prompt Engineering for Developers</a>.
+
+# Lesson: Guidelines
 ## Principle 1: Write clear and specific instructions.
 
 ### Tactic 1: Use delimeters
-Triple quotes: """
-Triple backticks: ```
-Triple dashes: ---
-Angle brackets: <>
-XML tags: <tag> </tag>
+- Triple quotes: """
+- Triple backticks: ```
+- Triple dashes: ---
+- Angle brackets: <>
+- XML tags: `<tag> </tag>`
 
 ### Tactic 2: Ask for structured output
 HTML, JSON
@@ -45,8 +48,6 @@ Gives fictitious answers.
 
 Use previously discussed tactics to reduce hallucinations.
 
-===
-
-# Iterative prompt development process. 
+# Lesson: Iterative prompt development process. 
 
 
